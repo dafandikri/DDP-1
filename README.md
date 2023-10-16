@@ -1,1 +1,1 @@
-# DDP-1
+Folder ini adalah tugas-tugas programming yang dulu dikerjakan
